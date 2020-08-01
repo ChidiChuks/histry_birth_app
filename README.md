@@ -1,6 +1,6 @@
 # histry_birth_app
 
-A new Flutter project.
+A new Flutter project that enables users interact with friends, celebrities and collaborators during festive season, important events and birthday celebrations with the expression of happiness through sending or receiving of gifts, customized cards or video/audio post.
 
 ## Getting Started
 
